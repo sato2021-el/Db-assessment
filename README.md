@@ -4,6 +4,9 @@ THIS IS A PRIVATE repository for a small project.
 const authorname = "ILYASS EL HARRASS";
 
 
+Please note that this project uses Mongodb as a database.
+to ensure the project works locally the Db will be coded in the code, it wont be a live a data however that can be changed.
+
 Make sure you have the required framework install / ( npm install node.js ) **
 
 This small project is built to import/export data and 
